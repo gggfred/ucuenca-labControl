@@ -1,2 +1,2 @@
-# ucuenca-tele-ctrl-labs
-Repositorio para contenido distribuible de los laboratorios de Telecomunicaciones y Sistemas de Control
+# ucuenca-labControl
+Repositorio para contenido distribuible del laboratorio de Sistemas de Control
